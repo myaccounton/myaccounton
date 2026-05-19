@@ -1,8 +1,4 @@
-# 🚀 Tejas Chaudhari – Developer Portfolio
-
-A modern and responsive personal developer portfolio built to showcase my skills, projects, education, and experience as a Full Stack MERN Developer. This portfolio highlights my journey as a Computer Engineering student at Pune Institute of Computer Technology (PICT) and demonstrates my passion for scalable web development, problem-solving, and software engineering.
-
----
+# 🚀 Tejas Chaudhari 
 
 ## 📌 About Me
 
