@@ -1,7 +1,5 @@
 # 🚀 Tejas Chaudhari 
 
-## 📌 About Me
-
 ## 👋 About Me
 
 I'm Tejas Chaudhari, a third-year Computer Engineering student at Pune Institute of Computer Technology (PICT) and a Full Stack Web Developer passionate about building scalable web applications.
