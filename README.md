@@ -3,7 +3,7 @@
 <h1 align="center">🚀 Tejas Chaudhari</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7C83FD&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer;Computer+Engineering+Student;React+%7C+Node.js+%7C+TypeScript;Building+Scalable+Web+Applications;Always+Learning+%26+Building" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7C83FD&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer;Computer+Engineering+Student;React+%7C+Node.js+%7C+JavaScript;Building+Scalable+Web+Applications;Always+Learning+%26+Building" />
 </p>
 
 <p align="center">
@@ -151,8 +151,6 @@ An AI-focused project developed as part of a team-based hackathon project.
 
 ```text
 🧠 Data Structures & Algorithms
-⚡ Advanced TypeScript
-▲ Next.js
+⚡ TypeScript
 🏗️ System Design
 ☁️ AWS & Cloud Fundamentals
-🐳 Docker & CI/CD
