@@ -1,96 +1,158 @@
-# 🚀 Tejas Chaudhari 
+<!-- ======================= HEADER ======================= -->
 
-## 👋 About Me
+<h1 align="center">🚀 Tejas Chaudhari</h1>
 
-I'm Tejas Chaudhari, a third-year Computer Engineering student at Pune Institute of Computer Technology (PICT) and a Full Stack Web Developer passionate about building scalable web applications.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7C83FD&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer;Computer+Engineering+Student;React+%7C+Node.js+%7C+TypeScript;Building+Scalable+Web+Applications;Always+Learning+%26+Building" />
+</p>
 
-Currently, I'm working as a Full Stack Web Developer Intern at Udaan Scholars, where I contribute to the development of a production-ready education platform, building CMS modules, admin dashboards, backend services, and responsive user interfaces.
+<p align="center">
+  <a href="https://github.com/myaccounton">
+    <img src="https://komarev.com/ghpvc/?username=myaccounton&label=Profile%20Views&color=7C83FD&style=flat" />
+  </a>
+</p>
 
-I enjoy solving real-world problems, writing clean and maintainable code, and continuously learning modern web technologies.
+<p align="center">
+  <a href="https://linkedin.com/in/tejas-chaudhari-09630b349">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:tejasgchaudhari@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/myaccounton">
+    <img src="https://img.shields.io/badge/GitHub-myaccounton-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+# 👋 About Me
+
+I'm **Tejas Chaudhari**, a third-year **Computer Engineering student at Pune Institute of Computer Technology (PICT)** and a **Full Stack Web Developer** passionate about building scalable and user-focused web applications.
+
+💻 Currently working as a **Full Stack Web Developer Intern at Udaan Scholars**, contributing to a production-ready education platform.
+
+🚀 My work includes building **CMS modules, admin dashboards, backend services, REST APIs, authentication systems, and responsive user interfaces**.
+
+🧠 I'm also actively strengthening my knowledge of **Data Structures & Algorithms, TypeScript, Next.js, System Design, and Cloud Technologies**.
+
+🎯 I enjoy solving real-world problems, writing clean and maintainable code, and continuously learning new technologies.
 
 ---
 
 # 🛠️ Tech Stack
 
-## Frontend
-- React.js
-- Vite
-- Tailwind CSS
-- JavaScript
-- HTML5
-- CSS3
+### 💻 Languages
 
-## Backend
-- Node.js
-- Express.js
+<p>
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,java,html,css" />
+</p>
 
-## Database
-- MongoDB
-- MySQL
+### 🎨 Frontend
 
-## Tools & Technologies
-- Git & GitHub
-- JWT Authentication
-- REST APIs
-- Postman
-- Cloudinary
-- Resend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 🔧 Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,vscode" />
+</p>
+
+**Other Technologies**
+
+- 🔐 JWT Authentication
+- 🌐 REST APIs
+- ☁️ Cloudinary
+- 📧 Resend
+- 🧩 Joi Validation
 
 ---
 
 # 💼 Professional Experience
 
-## Full Stack Web Developer Intern
+## 🚀 Full Stack Web Developer Intern
+
 ### Udaan Scholars
 
-Worked on the production-ready Udaan Scholars platform by developing and maintaining:
+Contributing to the development and maintenance of a **production-ready education platform**.
 
-- 🌐 Main website
-- 🏫 College CMS
-- 📊 Lead Management Dashboard
-- 🎓 Admissions Dashboard
-- 💬 Counselling Dashboard
-- 📝 Blog & FAQ Management
-- 🤝 Partners CMS
-- 🔐 Secure Backend APIs
+### Key Contributions
 
-# 💼 Highlight Project
-
-## 🎬 Vidly – Movie Rental Management System
-
-A full-stack movie rental platform built using React.js, Node.js, Express.js, and MongoDB.
-
-### Features
-- JWT Authentication & Authorization
-- Role-based access control
-- Movie rental lifecycle management
-- RESTful APIs
-- Responsive dark-themed UI
-- Search, sorting, and filtering
-- Watchlist functionality
-- Secure backend validation
-
-### Tech Used
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- JWT
-- Joi Validation
+- 🌐 Developed and maintained the main website
+- 🏫 Built and enhanced **College CMS**
+- 📊 Developed **Lead Management Dashboard**
+- 🎓 Worked on **Admissions Management**
+- 💬 Developed **Counselling Management**
+- 📝 Built **Blog & FAQ Management**
+- 🤝 Worked on **Partners CMS**
+- 🔐 Developed secure backend APIs
+- 📱 Built responsive and user-friendly interfaces
+- 🗄️ Worked with database-driven applications and backend services
 
 ---
 
+# 🚀 Featured Projects
 
-# 📬 Contact
+## 🎬 Vidly — Movie Rental Management System
 
-## 👤 Tejas Chaudhari
+A full-stack movie rental platform designed to provide users with a complete movie browsing and rental experience.
 
-- 📧 Email: tejasgchaudhari@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/tejas-chaudhari-09630b349
-- 🐙 GitHub: https://github.com/myaccounton
+### ✨ Features
+
+- 🔐 JWT Authentication & Authorization
+- 👥 Role-Based Access Control
+- 🎬 Movie Rental Lifecycle Management
+- 🌐 RESTful Backend APIs
+- 🔎 Search, Sorting & Filtering
+- ❤️ Watchlist Functionality
+- 📱 Responsive Dark-Themed UI
+- 🛡️ Backend Validation & Secure API Handling
+- 💳 Membership & Rental Management
+
+### 🧰 Tech Used
+
+`React.js` `Node.js` `Express.js` `MongoDB` `JWT` `Joi`
 
 ---
 
-# 💡 Quote
+## 🌬️ AirSense AI
 
-> “Code, Learn, Build, Repeat.”
+An AI-focused project developed as part of a team-based hackathon project.
+
+### ✨ Highlights
+
+- 🤖 AI-powered analysis
+- 📊 Data-driven insights
+- 🌐 Interactive web interface
+- ⚡ Full-stack architecture
+- 👥 Collaborative team development
+
+### 🧰 Tech Used
+
+`React.js` `Node.js` `MongoDB` `AI`
+
+---
+
+# 🌱 Currently Learning
+
+```text
+🧠 Data Structures & Algorithms
+⚡ Advanced TypeScript
+▲ Next.js
+🏗️ System Design
+☁️ AWS & Cloud Fundamentals
+🐳 Docker & CI/CD
