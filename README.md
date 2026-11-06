@@ -26,17 +26,20 @@
 
 ---
 
-# 👋 About Me
+## 👋 About Me
 
-I'm **Tejas Chaudhari**, a third-year **Computer Engineering student at Pune Institute of Computer Technology (PICT)** and a **Full Stack Web Developer** passionate about building scalable and user-focused web applications.
+I'm **Tejas Chaudhari**, a final-year **Computer Engineering student at Pune Institute of Computer Technology (PICT)** and a **Full Stack Web Developer** passionate about building scalable, efficient, and user-focused web applications.
 
-💻 Currently working as a **Full Stack Web Developer Intern at Udaan Scholars**, contributing to a production-ready education platform.
+💻 I have completed my **Full Stack Web Development Internship at Udaan Scholars**, where I contributed to building and enhancing a production-ready education platform.
 
-🚀 My work includes building **CMS modules, admin dashboards, backend services, REST APIs, authentication systems, and responsive user interfaces**.
+🚀 My experience includes developing **CMS modules, admin dashboards, backend services, REST APIs, authentication systems, database integrations, and responsive user interfaces**.
 
-🧠 I'm also actively strengthening my knowledge of **Data Structures & Algorithms, TypeScript, Next.js, System Design, and Cloud Technologies**.
+🛠️ **Tech Stack:** React.js, TypeScript, JavaScript, Node.js, Express.js, MongoDB, Tailwind CSS, Git & GitHub.
 
-🎯 I enjoy solving real-world problems, writing clean and maintainable code, and continuously learning new technologies.
+🧠 I'm continuously strengthening my knowledge of **Data Structures & Algorithms, System Design, Next.js, and Cloud Technologies**.
+
+🎯 I enjoy solving real-world problems, writing clean and maintainable code, exploring new technologies, and building impactful software solutions.
+
 
 ---
 
